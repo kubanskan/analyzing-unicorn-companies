@@ -6,5 +6,5 @@ Using analysis in **PostgreSQL**  I want to answer questions which   industries 
 
 
 
-![Hand with calculator](calculator.png "Calculator")
+../![Hand with calculator](calculator.png "Calculator")
 
